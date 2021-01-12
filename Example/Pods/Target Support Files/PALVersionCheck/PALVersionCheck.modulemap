@@ -1,0 +1,6 @@
+framework module PALVersionCheck {
+  umbrella header "PALVersionCheck-umbrella.h"
+
+  export *
+  module * { export * }
+}

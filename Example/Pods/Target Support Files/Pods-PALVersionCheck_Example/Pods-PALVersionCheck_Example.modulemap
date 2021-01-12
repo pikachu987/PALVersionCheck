@@ -1,0 +1,6 @@
+framework module Pods_PALVersionCheck_Example {
+  umbrella header "Pods-PALVersionCheck_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

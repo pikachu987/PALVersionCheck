@@ -1,0 +1,16 @@
+PODS:
+  - PALVersionCheck (0.1.0)
+
+DEPENDENCIES:
+  - PALVersionCheck (from `../`)
+
+EXTERNAL SOURCES:
+  PALVersionCheck:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PALVersionCheck: 718914f8588f18446b30f3881263218f6827aed1
+
+PODFILE CHECKSUM: 5d06cf45e3cbc77c707c87f15b5da7fa4d35dfc9
+
+COCOAPODS: 1.10.0

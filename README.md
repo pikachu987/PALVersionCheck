@@ -1,6 +1,5 @@
 # PALVersionCheck
 
-[![CI Status](https://img.shields.io/travis/pikachu987/PALVersionCheck.svg?style=flat)](https://travis-ci.org/pikachu987/PALVersionCheck)
 [![Version](https://img.shields.io/cocoapods/v/PALVersionCheck.svg?style=flat)](https://cocoapods.org/pods/PALVersionCheck)
 [![License](https://img.shields.io/cocoapods/l/PALVersionCheck.svg?style=flat)](https://cocoapods.org/pods/PALVersionCheck)
 [![Platform](https://img.shields.io/cocoapods/p/PALVersionCheck.svg?style=flat)](https://cocoapods.org/pods/PALVersionCheck)
